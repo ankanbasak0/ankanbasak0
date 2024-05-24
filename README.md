@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DL, ML**
 
-- 📫 How to reach me **ankanbasak09122003@gmail.com**
+- 📫 How to reach me **ankanbasak0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
