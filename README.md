@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankanbasak0" target="blank"><img src="https://img.shields.io/twitter/follow/ankanbasak0?logo=twitter&style=for-the-badge" alt="ankanbasak0" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **DL, ML**
 
 - 📫 How to reach me **ankanbasak09122003@gmail.com**
 
