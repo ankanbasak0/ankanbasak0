@@ -57,7 +57,7 @@ src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c040
 </a>
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg" alt="excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
 </a>
 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
