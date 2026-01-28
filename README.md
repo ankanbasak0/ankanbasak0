@@ -16,7 +16,7 @@ src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c040
 
 - 💬 Ask me about **ML, DL**
 
-- 📫 How to reach me **ankanbasak0@gmail.com**
+- 📧 **ankanbasak0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
